@@ -3,7 +3,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ViWu&count_private=true&theme=gruvbox&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViWu&layout=compact&theme=gruvbox)
 
-![gif](https://github.com/ViWu/ViWu/blob/master/banner_note_text.gif) <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/ViWu/ViWu/master/coffee.gif" />
+![gif](https://github.com/ViWu/ViWu/blob/master/banner_note_text.gif) <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/ViWu/ViWu/master/coffee.gif" />
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
